@@ -1,0 +1,7 @@
+{
+    "template_directory": "views",
+    "app_root" : "",
+    "template_static" : "views/static",
+    "host" : "http://localhost:8000",
+    "template_engine" : "ejs"
+}
