@@ -1,7 +1,9 @@
-let { welcome } = require("../routes")
+let { welcome, index } = require("../routes")
 
 var urlConfig = {
     "paths": {
+        "/" : index,
+        "/index" : index,
         "/welcome" : welcome
     }
 }
