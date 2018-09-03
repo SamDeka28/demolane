@@ -7,8 +7,12 @@ After cloning the repository,
 ```
 cd demolane
 
-npm install --save lane-js ejs@1.0.0
+npm init
+
+npm install --save lane-js
 ```
+> don't install lane-js globally
+
 ## Starting the Server
 ```
 node app.js
