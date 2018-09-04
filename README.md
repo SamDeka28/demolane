@@ -22,4 +22,4 @@ After starting the server, go to the browser and enter the [http://localhost:300
 
 Once the pathMaps are generated, you can goto [http://localhost:3000/](http://localhost:3000/)
 
-> For more details, go to the npm repo of [LaneJs](https://npmjs.org/package/lane-js)
+> For more details, go to the github repo [https://github.com/SamDeka28/lane-js](https://github.com/SamDeka28/lane-js)
